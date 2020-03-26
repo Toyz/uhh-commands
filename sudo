@@ -1,2 +1,2 @@
-sudo su
-run su
+command=sudo su
+note=run root
